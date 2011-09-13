@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzSequencer.UI", "CollatzSequencer.UI.csproj", "{8C3DD436-DA2D-467A-9A13-75D551E1A4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzSequencer.Core", "..\Core\CollatzSequencer.Core.csproj", "{40DAB1A9-767F-4B0B-AD7E-EA268D31F77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzSequencer.Specs", "..\CollatzSequencer.Specs\CollatzSequencer.Specs.csproj", "{EAF1DED6-13C6-486E-99DD-1243AB2F5798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3DD436-DA2D-467A-9A13-75D551E1A4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3DD436-DA2D-467A-9A13-75D551E1A4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3DD436-DA2D-467A-9A13-75D551E1A4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3DD436-DA2D-467A-9A13-75D551E1A4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40DAB1A9-767F-4B0B-AD7E-EA268D31F77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DAB1A9-767F-4B0B-AD7E-EA268D31F77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DAB1A9-767F-4B0B-AD7E-EA268D31F77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DAB1A9-767F-4B0B-AD7E-EA268D31F77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF1DED6-13C6-486E-99DD-1243AB2F5798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF1DED6-13C6-486E-99DD-1243AB2F5798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF1DED6-13C6-486E-99DD-1243AB2F5798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF1DED6-13C6-486E-99DD-1243AB2F5798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
