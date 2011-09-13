@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzSequencer.UI", "CollatzSequencer.UI.csproj", "{8C3DD436-DA2D-467A-9A13-75D551E1A4C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzSequencer.Core", "..\Core\CollatzSequencer.Core.csproj", "{40DAB1A9-767F-4B0B-AD7E-EA268D31F77F}"

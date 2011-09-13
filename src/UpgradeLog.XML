@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CollatzSequencer">
+</Property><Property Name="Solution File" Value="C:\dev\CollatzSequencer\src\CollatzSequencer.sln">
+</Property><Property Name="Date" Value="Tuesday, September 13, 2011">
+</Property><Property Name="Time" Value="11:17 AM">
+</Property></Properties><Event ErrorLevel="0" Project="CollatzSequencer.UI" Source="CollatzSequencer.UI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CollatzSequencer.UI" Source="CollatzSequencer.UI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CollatzSequencer.Core" Source="..\Core\CollatzSequencer.Core.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CollatzSequencer.Core" Source="..\Core\CollatzSequencer.Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CollatzSequencer.Specs" Source="..\CollatzSequencer.Specs\CollatzSequencer.Specs.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CollatzSequencer.Specs" Source="..\CollatzSequencer.Specs\CollatzSequencer.Specs.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CollatzSequencer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CollatzSequencer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CollatzSequencer.UI" Source="CollatzSequencer.UI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CollatzSequencer.Core" Source="..\Core\CollatzSequencer.Core.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CollatzSequencer.Specs" Source="..\CollatzSequencer.Specs\CollatzSequencer.Specs.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
